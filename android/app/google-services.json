@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501503666844",
+    "project_id": "liveasyinternship-f46c1",
+    "storage_bucket": "liveasyinternship-f46c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501503666844:android:b84be3c3a59ddff4171b59",
+        "android_client_info": {
+          "package_name": "com.example.liveasy_internship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhO0nlXFQBvASeptqie4qefdyfDgE0VWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
